@@ -5,7 +5,7 @@ this.addEventListener('install', function(event) {
         '/service_workers/',
         '/service_workers/index.html',
         '/service_workers/app.js',
-        '/service_workers/img/lalala.jpg'
+        '/service_workers/img/lalala.png'
       ]);
     })
   );
